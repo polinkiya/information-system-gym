@@ -117,6 +117,8 @@ ER-диаграмма находится в 3 нормальной форме, �
 
 <img width="499" alt="er-phys" src="https://github.com/polinkiya/information-system-gym/assets/51910779/b3772794-857b-4c5d-9607-c4d226bff023">
 
+#### Скрипт создания модели данных [тут](https://github.com/polinkiya/information-system-gym/blob/main/script.sql)
+
 
 ## Use-case diagram 
 
