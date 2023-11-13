@@ -140,9 +140,22 @@ ER-диаграмма находится в 3 нормальной форме, �
 
 Для предотвращения выхода системы из строя, написан  успешный сценарий и сценарий расширения.
 
-<img width="817" alt="Снимок экрана 2023-11-01 в 17 24 09" src="https://github.com/polinkiya/information-system-gym/assets/51910779/4eedd421-2a05-4142-8134-c4d7b2076da6">
-<img width="901" alt="Снимок экрана 2023-11-01 в 17 24 22" src="https://github.com/polinkiya/information-system-gym/assets/51910779/ae86fa82-f889-4f20-b5da-6b074790b764">
-<img width="897" alt="Снимок экрана 2023-11-01 в 17 24 31" src="https://github.com/polinkiya/information-system-gym/assets/51910779/f6ebd911-250c-4c9f-a5e4-4a2d54074a78">
-<img width="898" alt="Снимок экрана 2023-11-01 в 17 24 39" src="https://github.com/polinkiya/information-system-gym/assets/51910779/a5800495-0bcb-4108-adac-732a72bcf490">
-<img width="890" alt="Снимок экрана 2023-11-01 в 17 24 55" src="https://github.com/polinkiya/information-system-gym/assets/51910779/2ad2476b-99fb-47b2-b39d-b281a1e24f64">
-<img width="648" alt="Снимок экрана 2023-11-01 в 17 25 05" src="https://github.com/polinkiya/information-system-gym/assets/51910779/cf3eac71-22cc-4c72-a473-b9e14ac6cc9e">
+<img width="800" alt="Снимок экрана 2023-11-01 в 17 24 09" src="https://github.com/polinkiya/information-system-gym/assets/51910779/4eedd421-2a05-4142-8134-c4d7b2076da6">
+<img width="800" alt="Снимок экрана 2023-11-01 в 17 24 22" src="https://github.com/polinkiya/information-system-gym/assets/51910779/ae86fa82-f889-4f20-b5da-6b074790b764">
+<img width="800" alt="Снимок экрана 2023-11-01 в 17 24 31" src="https://github.com/polinkiya/information-system-gym/assets/51910779/f6ebd911-250c-4c9f-a5e4-4a2d54074a78">
+<img width="800" alt="Снимок экрана 2023-11-01 в 17 24 39" src="https://github.com/polinkiya/information-system-gym/assets/51910779/a5800495-0bcb-4108-adac-732a72bcf490">
+<img width="800" alt="Снимок экрана 2023-11-01 в 17 24 55" src="https://github.com/polinkiya/information-system-gym/assets/51910779/2ad2476b-99fb-47b2-b39d-b281a1e24f64">
+<img width="800" alt="Снимок экрана 2023-11-01 в 17 25 05" src="https://github.com/polinkiya/information-system-gym/assets/51910779/cf3eac71-22cc-4c72-a473-b9e14ac6cc9e">
+
+## Скрипты для создания базы данных
+- script.sql - содержит в себе полную резервную копию БД, не учитывая создание ролей.
+- activity_status.sql - статус активности.
+- attendance.sql - учет помсещаемости.
+- clients.sql - клиенты
+- pass.sql - абонементы
+- pass_ctatus.sql - статус абонемента
+- receipts.sql - квитанции
+- tariffs.sql - тарифы
+- type_tariff.sql - тип тарифа
+
+
